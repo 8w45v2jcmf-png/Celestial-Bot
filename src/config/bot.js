@@ -1,7 +1,7 @@
 import { logger } from '../utils/logger.js';
 
 // ==============================================
-//  🖤💜  BOT CONFIG — BLACK & PURPLE THEME
+
 // ==============================================
 const THEME = {
     // PRIMARY PALETTE — BLACK & PURPLE
@@ -48,7 +48,7 @@ export const botConfig = {
     // ==========================================
     presence: {
         status: "online",
-        activities: [{ name: "Dark Mode", state: "💜 Purple & Black", type: 4 }],
+        activities: [{ name: "Dark Mode", state: "Stalking👀}],
     },
 
     // ==========================================
